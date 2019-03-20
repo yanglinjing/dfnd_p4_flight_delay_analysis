@@ -2,6 +2,8 @@
 ### (Tableau Project)
 
 # Introduction
+This is a Tableau Project published on my Tableau Public (Click [here](https://public.tableau.com/profile/linjing7424#!/vizhome/USFlightCancellationDiversionandDelayAnalysis2015/Story2015) to view).
+The goal of this project is to analyse the reasons of US flight cancellation, diversion and delay in 2015.
 
 ## Data
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015.
